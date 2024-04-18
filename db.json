@@ -1,166 +1,185 @@
 {
-    "listMenu": [
-      {
-        "id": "0",
-        "title": "Главная",
-        "path": "/",
-        "breadcrumb": "Главная",
-        "show": false
-      },
-      {
-        "id": "1",
-        "title": "Про нас",
-        "path": "/about-us",
-        "breadcrumb": "Про нас",
-        "show": true
-      },
-      {
-        "id": "2",
-        "title": "Новини",
-        "path": "/news",
-        "breadcrumb": "Новини",
-        "show": true
-      },
-      {
-        "id": "3",
-        "title": "Отримати допомогу",
-        "path": "/get-help",
-        "breadcrumb": "Отримати допомогу",
-        "show": true
-      },
-      {
-        "id": "4",
-        "title": "Допомогти",
-        "path": "/donate",
-        "breadcrumb": "Допомогти",
-        "show": true
-      },
-      {
-        "id": "5",
-        "title": "Контакти",
-        "path": "/contacts",
-        "breadcrumb": "Контакти",
-        "show": true
-      },
-      {
-        "id": "6",
-        "title": "Умови використання сайту",
-        "path": "/user-condition",
-        "breadcrumb": "Умови використання сайту",
-        "show": false
-      }
-    ],
-    "news": [
-      {
-        "id": "1",
-        "title": "Нова партія допомоги для ССО ЗСУ",
-        "desc": "Передали нашим хлопцям з ССО ЗСУ багато якісних турнікетів, сухпайків, літніх панам, балаклав, тактичних аптечок, шкарпеток. Сили оборони повинні бути забезпечені найкращим та ні в чому не мати потреби.",
-        "photoMain": "/img/slider-news-1.jpg",
-        "photoList": [
-          "/img/slider-news-1.jpg",
-          "/img/slider-news-1.jpg",
-          "/img/slider-news-1.jpg"
-
-
-        ]
-      },
-      {
-        "id": "2",
-        "title": "Допомога для спецпідрозділу «KRAKEN»",
-        "desc": "Передали окремому розвідувально-диверсійнному підрозділу ГУР МОУ «Kraken» якісні турнікети, сухпаї, літні панами, балаклаи та багато інших потрібних речей. Легендарний «Kraken» на захисті нашої Держави! Слава Україні!",
-        "photoMain": "/img/slider-news-2.jpg",
-        "photoList": [
-          "/img/slider-news-2.jpg",
-          "/img/slider-news-2-2.jpg",
-          "/img/slider-news-2.jpg",
-          "/img/slider-news-2-2.jpg"
-
-        ]
-      },
-      {
-        "id": "3",
-        "title": "Допомога 66 ОМБр. Не стій на шляху у українського війська.",
-        "desc": "З«Не стій на шляху». Таке гасло 66 ОМБр. UkrHumBat передав славетній 66 бригаді багато корисних речей. Бережіть себе, браття та сестри!",
-        "photoMain": "/img/slider-news-3.jpg",
-        "photoList": [
-          "/img/slider-news-3.jpg",
-          "/img/slider-news-3-2.jpg",
-          "/img/slider-news-3-3.jpg"
-
-         
-        ]
-      },
-      {
-        "id": "4",
-        "title": "4 прикордонний загін отримав допомогу від фонду",
-        "desc": "Короткое описание новости – Безпека наших кордонів — безпека всієї України. Передали нашим відважним прикордонникам із 4 загону ДПСУ провізію, перевʼязочні матеріали та літні предмети одягу. Слава прикордонникам України!",
-        "photoMain": "/img/slider-news-4.jpg",
-        "photoList": [
-          "/img/slider-news-4.jpg",
-          "/img/slider-news-4-2.jpg",
-          "/img/slider-news-4.jpg",
-          "/img/slider-news-4-2.jpg"
-
-        ]
-      },
-      {
-        "id": "5",
-        "title": "«Завжди вперед!» — 3-тя окрема танкова Залізна бригада",
-        "desc": "Доправили нашим Героям — хлопцям з 3-ї окремої танкової Залізної Бригади якісні сухпайкі, перевʼязувальні матеріали. Дякуємо за захист нашої Батьківщини. Разом до перемоги!",
-        "photoMain": "/img/slider-news-5.jpg",
-        "photoList": [
-          "/img/slider-news-5.jpg",
-          "/img/slider-news-5.jpg",
-          "/img/slider-news-5.jpg"
-        ]
-      },
-      {
-        "id": "6",
-        "title": "Навчально-тренувальний центр екстреної медичної допомоги",
-        "desc": "Життя та здоров’я людини — найвища соціальна цінність. Передали тренувальні турнікети Навчально-тренувальному центру екстреної медичної допомоги. Досконалі навички рятування наших бійців — один із важливих напрямків діяльності Фонду.",
-        "photoMain": "/img/slider-news-6.jpg",
-        "photoList": [
-          "/img/slider-news-6.jpg",
-          "/img/slider-news-6-2.jpg",
-          "/img/slider-news-6.jpg",
-          "/img/slider-news-6-2.jpg"
-        ]
-      },
-      {
-        "id": "7",
-        "title": "Санітарна рота 92 ОМБр",
-        "desc": "Медикаменти та перевʼязувальні матеріали в сьогоденні — завжди необхідні речі. Передали санітарній роті нашій славетній та безстрашній 92 ОМБр імені кошового отамана Івана Сірка необхідні медикаменти, перевʼязки, пластирі. Життя та здоровʼя наших воїнів — пріоритет в діяльності Фонду.",
-        "photoMain": "/img/slider-news-7.jpg",
-        "photoList": [
-          "/img/slider-news-7.jpg",
-          "/img/slider-news-7.jpg",
-          "/img/slider-news-7.jpg"
-
-
-        ]
-      }
-    ],
-    "burger": {
-      "burgerMenuState": false
+  "orders": [
+    {
+      "id": "1",
+      "title": "Long long title name very long Long long title name very long ",
+      "date": "2017-06-29 12:09:33",
+      "description": "desc",
+      "products": [
+        {"id": "1"}, {"id": "2"}
+      ]
     },
-    "formData": [
-      {
-        "id": "",
-        "name": "",
-        "email": "",
-        "textarea": ""
+    {
+      "id": "2",
+      "title": "Order 2",
+      "date": "2017-06-29 12:09:33",
+      "description": "desc",
+      "products": [
+        {"id": "3"}, {"id": "4"}, {"id": "5"}
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Order 3",
+      "date": "2017-06-29 12:09:33",
+      "description": "desc",
+      "products": [{"id": "6"}]
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "serialNumber": 1234,
+      "isNew": 1,
+      "photo": "pathToFile.jpg",
+      "title": "Product test delete",
+      "type": "Monitors",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-02 12:09:33"
       },
-      {
-        "id": 1,
-        "name": "test",
-        "email": "test@mail.ru",
-        "textarea": "test"
+      "price": [
+        {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "1",
+      "date": "2017-06-01 12:09:33"
+    },
+
+    {
+      "id": "1",
+      "serialNumber": 1234,
+      "isNew": 1,
+      "photo": "pathToFile.jpg",
+      "title": "LG UltraGear 38GN950-B 38",
+      "type": "Monitors",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
       },
-      {
-        "id": 2,
-        "name": "test2",
-        "email": "test2@google.ru",
-        "textarea": "test2"
-      }
-    ]
-  }
+      "price": [
+        {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "1",
+      "date": "2017-06-29 12:09:33"
+    },
+    {
+      "id": "2",
+      "serialNumber": 1234,
+      "isNew": 0,
+      "photo": "pathToFile.jpg",
+      "title": "Samsung Odyssey G7 C27G75T",
+      "type": "Monitors",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+         {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "1",
+      "date": "2017-06-29 12:09:33"
+    },
+    {
+      "id": "3",
+      "serialNumber": 1234,
+      "isNew": 1,
+      "photo": "pathToFile.jpg",
+      "title": "Dell Alienware AW3420DW",
+      "type": "Plazma",
+      "specification": "Specification-2",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+         {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "2",
+      "date": "2017-06-29 12:09:33"
+    },
+    {
+      "id": "4",
+      "serialNumber": 1234,
+      "isNew": 0,
+      "photo": "pathToFile.jpg",
+      "title": "ASUS ROG Swift PG259QN",
+      "type": "Plazma",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+         {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "2",
+      "date": "2017-06-29 12:09:33"
+    },
+    {
+      "id": "5",
+      "serialNumber": 1234,
+      "isNew": 1,
+      "photo": "pathToFile.jpg",
+      "title": "Acer Predator X35",
+      "type": "Monitors",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+         {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "2",
+      "date": "2017-06-29 12:09:33"
+    }, 
+
+    {
+      "id": "6",
+      "serialNumber": 1234,
+      "isNew": 0,
+      "photo": "pathToFile.jpg",
+      "title": "MSI Optix MPG341CQR",
+      "type": "Monitors",
+      "specification": "Specification-2",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+         {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "3",
+      "date": "2017-06-29 12:09:33"
+    },
+    {
+      "id": "7",
+      "serialNumber": 1234,
+      "isNew": 1,
+      "photo": "pathToFile.jpg",
+      "title": "LG UltraGear 38GN950-B ",
+      "type": "Monitors",
+      "specification": "Specification-1",
+      "guarantee": {
+        "start": "2017-06-29 12:09:33",
+          "end": "2019-07-21 12:09:33"
+      },
+      "price": [
+        {"value": 100, "symbol": "USD", "isDefault": 0},
+        {"value": 2600, "symbol": "UAH", "isDefault": 1}
+      ],
+      "order": "1",
+      "date": "2017-06-29 12:09:33"
+    }
+  ]
+}
